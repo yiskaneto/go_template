@@ -6,7 +6,7 @@ on:
     paths: ['src/**', 'Dockerfile']
 env:
   AWS_REGION: "us-east-1"
-  ECR_REPO: "yivolve/go-db-writter"
+  ECR_REPO: "repo/name"
   RESULT_ICON: ""
 
 permissions:
