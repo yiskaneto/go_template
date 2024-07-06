@@ -1,2 +1,3 @@
-# go_template
-Go template repository
+# APP_NAME
+
+Repository description
